@@ -20,10 +20,10 @@ The dataset used in this project contains information about car attributes such 
 
 ## Usage
 
-1. Install the required dependencies using `pip install -r requirements.txt`.
-2. Download the dataset (`train.csv`) and place it in the project directory.
-3. Run the script `car_price_prediction.py`.
-4. The trained model will be saved in the current directory.
+
+1. Download the dataset (`train.csv`) and place it in the project directory.
+2. Run the script `car_price_prediction.py`.
+3. The trained model will be saved in the current directory.
 
 ## Results
 
